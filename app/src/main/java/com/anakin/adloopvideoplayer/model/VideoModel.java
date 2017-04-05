@@ -2,15 +2,12 @@ package com.anakin.adloopvideoplayer.model;
 
 import android.content.Context;
 import android.os.Environment;
-
-import com.dy.videoplayer.presenter.OnVideoListener;
-import com.dy.videoplayer.utils.AppUtils;
-
+import com.anakin.adloopvideoplayer.presenter.OnVideoListener;
+import com.anakin.adloopvideoplayer.utils.AppUtils;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
-
 import rx.Observable;
 import rx.Subscriber;
 import rx.Subscription;

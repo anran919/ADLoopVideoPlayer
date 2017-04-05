@@ -6,9 +6,9 @@ import android.content.Intent;
 import android.os.Environment;
 import android.widget.Toast;
 
-import com.dy.videoplayer.MainActivity;
-import com.dy.videoplayer.utils.L;
-import com.dy.videoplayer.utils.UiUtils;
+import com.anakin.adloopvideoplayer.MainActivity;
+import com.anakin.adloopvideoplayer.utils.L;
+import com.anakin.adloopvideoplayer.utils.UiUtils;
 
 import java.io.File;
 

@@ -2,10 +2,10 @@ package com.anakin.adloopvideoplayer.presenter;
 
 import android.content.Context;
 
-import com.dy.videoplayer.MainActivity;
-import com.dy.videoplayer.model.IVideoModel;
-import com.dy.videoplayer.model.VideoModel;
-import com.dy.videoplayer.view.IView;
+import com.anakin.adloopvideoplayer.MainActivity;
+import com.anakin.adloopvideoplayer.model.IVideoModel;
+import com.anakin.adloopvideoplayer.model.VideoModel;
+import com.anakin.adloopvideoplayer.view.IView;
 
 import java.util.List;
 

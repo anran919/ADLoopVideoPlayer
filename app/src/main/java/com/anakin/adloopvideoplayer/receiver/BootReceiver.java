@@ -4,9 +4,10 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-import com.dy.videoplayer.MainActivity;
-import com.dy.videoplayer.utils.L;
-import com.dy.videoplayer.utils.UiUtils;
+import com.anakin.adloopvideoplayer.MainActivity;
+import com.anakin.adloopvideoplayer.utils.L;
+import com.anakin.adloopvideoplayer.utils.UiUtils;
+
 
 /**
  * Created by demo on 2017/3/29 0029

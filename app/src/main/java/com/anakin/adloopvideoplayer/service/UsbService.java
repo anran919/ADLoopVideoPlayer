@@ -6,7 +6,8 @@ import android.content.IntentFilter;
 import android.os.IBinder;
 import android.support.annotation.Nullable;
 
-import com.dy.videoplayer.receiver.UsbReceiver;
+import com.anakin.adloopvideoplayer.receiver.UsbReceiver;
+
 
 /**
  * Created by demo on 2017/4/1 0001
